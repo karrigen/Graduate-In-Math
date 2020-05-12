@@ -1,4 +1,4 @@
-# GraduateInMath
+# Graduate In Math
 Self learning university mathematics
 
 
