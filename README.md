@@ -1,7 +1,6 @@
 # GraduateInMath
 Self learning university mathematics
 
----
 
 
 **1st Stage**
@@ -51,5 +50,5 @@ Self learning university mathematics
   - Mathematical Finance
   - Multivariate Statistics
   - Intelligent Computation
-  * Optimizing Controls
+  - Optimizing Controls
 
