@@ -9,13 +9,13 @@ Self-learning university mathematics
 - Logic
 
 **Analysis**
-- Analysis (basic)
 - Complex Analysis
 - Real Analysis
 - Functional Analysis
 - Ordinary/Partial Differential Equation
 - Fourier Analysis
 - Wavelets
+  - [A First Course in Wavelets with Fourier Analysis by Albert Boggess, Francis J. Narcowich](https://b-ok.cc/book/2039732/8a8c6c)
 - Measure theory
 
 **Algebra**
