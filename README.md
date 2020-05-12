@@ -1,5 +1,7 @@
 # Graduate In Math
-Self learning university mathematics
+Self-learning university mathematics
+
+![Relationship between Mathematics topics](https://qph.fs.quoracdn.net/main-qimg-23c87444db22246aacc6bdc62520a9d6)
 
 # Core
 **Basic**
