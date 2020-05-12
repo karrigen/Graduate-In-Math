@@ -41,7 +41,6 @@ Self-learning university mathematics
 **Statistics**
 - Probability
 - Multivariate Statistics
-- Analysis of Time Series
 - Stochastic Process
 - Time Series
 
