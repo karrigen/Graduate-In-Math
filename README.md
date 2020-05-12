@@ -1,54 +1,65 @@
 # Graduate In Math
 Self learning university mathematics
 
+# Core
+**Basic**
+- Set theory
+- Logic
+
+**Analysis**
+- Analysis (basic)
+- Complex Analysis
+- Real Analysis
+- Functional Analysis
+- Ordinary/Partial Differential Equation
+- Fourier Analysis
+- Wavelets
+- Measure theory
+
+**Algebra**
+- Linear Algebra
+- Abstract Algebra
+- Galois Theory
+- Representation Theory for Group and Algebra
+- Algebraic Number Theory
+- Algebraic Topology
+- Coding and cryptography
+
+**Geometry**
+- Topology
+- Differential Geometry
+- Differentiable Manifold
+- Lie Group and Lie Algebras
+- Riemannian Geometry
+- Graph theory
+- Fractal
+- Algebraic Geometry
 
 
-**1st Stage**
-  - Analysis
-  - Linear Algebra
-  
-**2nd Stage**
-  - Discrete Mathematics
-  - Ordinary Differential Equation
-  - Complex Analysis
-  - Probability
-  - Abstract Algebra
-  - Numerical Methods
- 
-**3rd Stage**
- - Real Analysis
- - Partial Differential Equations
- - Topology
- - Functional Analysis
- - Differential Geometry
+**Statistics**
+- Probability
+- Multivariate Statistics
+- Analysis of Time Series
+- Stochastic Process
+- Time Series
 
+# Optional
+**Programming**
+- Optimization
+- Operations Research
+- Combinatorics Mathematics
+- Optimizing Controls
 
-**Option one**
-  - Dynamic System
-  - Differentiable Manifold
-  - Generalized Function	
-  - Coding and cryptography
-  - Algebraic Geometry
-  - Lie Group and Lie Algebras
-  - Representation Theory for Group and Algebra
-  - Algebraic Number Theory
-  - Nonlinear Mathematical Physics Method
-  - Algebraic Topology
-  - Combinatorics Mathematics
-  - Riemannian Geometry
+**Computational Math**
+- Discrete Mathematics
+- Numerical Methods
+- Parallel Computing
+- Nonlinear Mathematical Physics Method
+- Computational Fluid Dynamics
+- Numerical Solution of Partial Differential Equation
+- Intelligent Computation
 
-**Option two**
-  - Stochastic Process
-  - Graph and networ
-  - Operations Research
-  - Parallel Computing
-  - Analysis of Time Series
-  - Computational Fluid Dynamics
-  - Financial information analysis
-  - Numerical Solution of Partial Differential Equation
-  - Quantitative Economics
-  - Mathematical Finance
-  - Multivariate Statistics
-  - Intelligent Computation
-  - Optimizing Controls
-
+**Finance**
+- Financial information analysis
+- Quantitative Economics
+- Mathematical Finance  
