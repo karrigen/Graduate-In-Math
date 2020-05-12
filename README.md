@@ -47,6 +47,7 @@ Self-learning university mathematics
 # Optional
 **Programming**
 - Optimization
+  - [Introduction to nonlinear optimization: theory, algorithms, and applications with MATLAB](https://b-ok.cc/book/2625513/f22392)
 - Operations Research
 - Combinatorics Mathematics
 - Optimizing Controls
